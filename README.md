@@ -6,7 +6,7 @@ Objective: To identify and remove potentially harmful browser extensions in orde
 
 1. Opened Chrome Extensions Manager
    
- Navigated to chrome://extensions/ to view all installed extensions.
+   Navigated to chrome://extensions/ to view all installed extensions.
 
 2. Reviewed Installed Extensions
 

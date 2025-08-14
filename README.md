@@ -12,17 +12,17 @@ Objective: To identify and remove potentially harmful browser extensions in orde
 
    Checked the list of all installed extensions:
 
-     AdBlock — Block ads across the web
+       AdBlock — Block ads across the web
    
-     FoxyProxy — Advanced proxy management tool
+       FoxyProxy — Advanced proxy management tool
    
-     Sound Booster — Flagged as containing malware by Chrome
+       Sound Booster — Flagged as containing malware by Chrome
    
-     Temp Mail — Disposable email address service
+       Temp Mail — Disposable email address service
    
-     Wappalyzer — Technology profiler
+       Wappalyzer — Technology profiler
    
-     WhatRuns — Website framework and plugin identifier
+       WhatRuns — Website framework and plugin identifier
 
 4. Identified Suspicious Extension
 
